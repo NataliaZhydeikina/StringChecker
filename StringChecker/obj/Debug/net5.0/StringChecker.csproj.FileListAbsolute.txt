@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\StringChecker\StringChecker\bin\Debug\net5.0\StringChecker.exe
+C:\Users\user\source\repos\StringChecker\StringChecker\bin\Debug\net5.0\StringChecker.deps.json
+C:\Users\user\source\repos\StringChecker\StringChecker\bin\Debug\net5.0\StringChecker.runtimeconfig.json
+C:\Users\user\source\repos\StringChecker\StringChecker\bin\Debug\net5.0\StringChecker.runtimeconfig.dev.json
+C:\Users\user\source\repos\StringChecker\StringChecker\bin\Debug\net5.0\StringChecker.dll
+C:\Users\user\source\repos\StringChecker\StringChecker\bin\Debug\net5.0\ref\StringChecker.dll
+C:\Users\user\source\repos\StringChecker\StringChecker\bin\Debug\net5.0\StringChecker.pdb
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.AssemblyInfo.cs
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.dll
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\ref\StringChecker.dll
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.pdb
+C:\Users\user\source\repos\StringChecker\StringChecker\obj\Debug\net5.0\StringChecker.genruntimeconfig.cache
